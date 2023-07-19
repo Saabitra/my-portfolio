@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['../my-portfolio/src/**/*.{html,js,jsx,ts,tsx}'],
+  content: ['../PORTFOLIO 1/src/**/*.{html,js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
       primary: 'Playfair Display',
